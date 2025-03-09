@@ -28,7 +28,8 @@ The project consists of the following files:
 2. `signup.html`: Page for user registration.
 3. `home.html`: Page displaying the welcome message for authenticated users.
 4. `mygod.html`: oh my god page.
-
+5. `New.html`.
+6. `ohhhhhhhh`.
 ## Usage
 
 1. Click the "Sign Up" link on the sign-in page to access the registration page.
