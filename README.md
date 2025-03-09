@@ -19,7 +19,7 @@ The home page displays a welcome message using the user's name retrieved from lo
 - HTML
 - CSS
 - JavaScript
-- Js
+- JavaScript
 
 ## Project Structure
 
