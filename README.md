@@ -27,6 +27,7 @@ The project consists of the following files:
 1. `index.html`: The main entry point for the sign-in page.
 2. `signup.html`: Page for user registration.
 3. `home.html`: Page displaying the welcome message for authenticated users.
+4. `mygod.html`: oh my god page.
 
 ## Usage
 
