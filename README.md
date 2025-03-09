@@ -22,6 +22,8 @@ The home page displays a welcome message using the user's name retrieved from lo
 - JavaScript
 
 ## Project Structure
+Project Structure
+
 
 The project consists of the following files:
 
