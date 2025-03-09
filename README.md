@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # login-page
 =======
 # Project Name: Simple Login System
@@ -44,3 +45,6 @@ The project is hosted on GitHub Pages. You can access it [here](https://eman289.
 
 This project's functionality is basic and might not cover all security and validation aspects required for a production-level application. It's recommended to enhance security measures and error handling for a real-world deployment.
 >>>>>>> 96f5eec (intial commit)
+=======
+# login-page
+>>>>>>> 0e3714873bab7197a373311581b1a4b2ff514a7e
